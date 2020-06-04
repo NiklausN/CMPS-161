@@ -10,8 +10,6 @@
  *  users to enter the required values into the console.
  */
 
-package Programs;
-
 // Import the Scanner
 import java.util.Scanner;
 
