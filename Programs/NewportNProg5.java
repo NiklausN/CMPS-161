@@ -12,8 +12,6 @@
  *      based on which selection was made by the user.
  */
 
-package Programs;
-
 // Import the Scanner
 import java.util.Scanner;
 
