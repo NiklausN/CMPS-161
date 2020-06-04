@@ -22,8 +22,6 @@
  *  10.) Rock crushes Scissors
  */
 
-package Programs;
-
 // Import the Scanner
 import java.util.Scanner;
 
