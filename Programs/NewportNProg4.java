@@ -22,8 +22,6 @@
  *          out an error message and exit the program.
  */
 
-package Programs;
-
 // Import the Scanner
 import java.util.Scanner;
 
