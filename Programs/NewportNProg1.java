@@ -13,8 +13,6 @@
  *         (pi = 3.14159)
  */
 
-package Programs;
-
 public class NewportNProg1 {
 
     public static void main(String[] args) {
